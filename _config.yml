@@ -3,9 +3,9 @@
 #
 
 # Name of your site (displayed in the header)
-name: "liyipeng"
+name: "LiYiPeng"
 # Short bio or description (displayed in the header)
-description: " "
+description: "Blog"
 
 #
 # Flags below are optional
@@ -19,13 +19,13 @@ avatar: https://github.com/liyipeng137/liyipeng137.github.io/blob/main/images/av
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
-navigation:
-  - name: 首页
-    url: /
-  - name: 关于
-    url: /about
-  - name: 标签
-    url: /tags
+#navigation:
+  #- name: 首页
+  #  url: /
+  #- name: 关于
+  #  url: /about
+  #- name: 标签
+  #  url: /tags
 
 # Pagination
 paginate: 8
